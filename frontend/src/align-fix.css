@@ -1,0 +1,5 @@
+.item-card{display:flex;justify-content:space-between;align-items:center;padding:12px;background:#fff;border-radius:8px;box-shadow:var(--shadow);gap:12px}
+.item-card>div:first-child{flex:1;min-width:0}
+.item-card .item-title{margin:0;font-weight:700;text-align:left}
+.item-card .meta{margin-top:6px;color:var(--muted);text-align:left}
+.actions{flex:0 0 auto}

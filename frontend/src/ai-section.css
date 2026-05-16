@@ -1,0 +1,8 @@
+.ai-top{display:flex;justify-content:flex-end}
+.ai-pre{display:none}
+.ai-render{padding:20px;border-radius:10px;color:var(--muted);line-height:1.6;text-align:left;font-family:Inter,system-ui,Segoe UI,Roboto,Arial;margin-top:6px}
+.ai-render h3{margin:0 0 10px;font-size:16px;color:var(--text)}
+.ai-render p{margin:8px 0;color:var(--muted)}
+.ai-render ul, .ai-render ol{margin:8px 0 8px 20px;color:var(--muted)}
+.ai-render strong{color:var(--text)}
+.ai-render code{background:rgba(0,0,0,0.04);padding:2px 6px;border-radius:6px}
