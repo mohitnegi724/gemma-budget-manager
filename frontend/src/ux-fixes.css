@@ -1,4 +1,0 @@
-.ai-top{display:flex;justify-content:flex-end}
-
-.btn{padding:8px 10px;border-radius:8px;border:1px solid var(--border);background:#fff;color:var(--accent);cursor:pointer;font-size:14px}
-.btn.ghost{background:transparent;border-color:transparent;color:var(--muted)}
